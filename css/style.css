@@ -1,0 +1,12 @@
+.home{
+ background-image: url(../img/istockphoto-543998692-170667a.webp);
+ background-position: center center;
+ background-size: cover;
+}
+
+.contant{
+    width: 70%;
+    height: 60%;
+    border: 1px solid thistle;
+    border-radius: 2px 100px 10px 100px ;
+}
